@@ -34,7 +34,7 @@ Block target rate: 6 seconds
 
 Balance precision: 9 decimals
 
-Substrate SS58 prefix: 55 (registry [entry](https://github.com/paritytech/ss58-registry/blob/main/ss58-registry.json#L502))
+Substrate SS58 prefix: 55 (registry [entry](https://github.com/paritytech/ss58-registry/blob/main/ss58-registry.json#L509))
 
 Transaction finality: Usually 3 blocks/18 seconds, can use API to check block finality (See [Sample Scripts](#sample-scripts))
 
